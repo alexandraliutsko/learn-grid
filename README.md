@@ -1,1 +1,1 @@
-Open: https://nekoguard.github.io/learn-grid/
+Open: https://alexandraliutsko.github.io/learn-grid/
